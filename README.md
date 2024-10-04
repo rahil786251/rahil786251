@@ -2,16 +2,16 @@ Hey there I'am Rahil Basha, a third-year Computer Science & Engineering student 
 
 **Skills & Interests:**
 
-Programming Languages: Python, C, HTML, CSS, JavaScript(basic knowledge)
+* Programming Languages: Python, C, HTML, CSS, JavaScript(basic knowledge)
 
-Frameworks/Libraries: Bootstrap, NumPy, Pandas, Matplotlib
+* Frameworks/Libraries: Bootstrap, NumPy, Pandas, Matplotlib
 
-Databases: MySQL, SQLite
+* Databases: MySQL, SQLite
 
-Data Structures & Algorithms Structuring Information for efficiency
+* Data Structures & Algorithms Structuring Information for efficiency
 
-Developer Tools: Git/Github, Google Colab, VS Code, Anaconda
+* Developer Tools: Git/Github, Google Colab, VS Code, Anaconda
 
-Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOPS, DBMS
+* Academic Coursework: Data Structures, Operating Systems (Windows, Linux), CN, OOPS, DBMS
 
-Interests: Problem-Solving, Competitive Programming, Participating in Hackathons
+* Interests: Problem-Solving, Competitive Programming, Participating in Hackathons
